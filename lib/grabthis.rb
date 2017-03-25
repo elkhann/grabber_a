@@ -1,7 +1,7 @@
-#require 'bundler/setup'
 require 'nokogiri'
 require 'openssl'
 require 'open_uri_redirections'
+
 
 class GrabThis
 
